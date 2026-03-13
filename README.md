@@ -27,12 +27,6 @@
 
 Check out the live demo [here](https://trail-hive.vercel.app/).
 
-## 🛠️ Installation and Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/trailhive-movie-app.git
-   cd trailhive-movie-app
 
 
 ## Contact
